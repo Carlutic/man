@@ -1,0 +1,9 @@
+身体 mat1
+身体 mat1
+身体 mat3
+身体 kao
+身体 Fur
+身体 FurSkin
+アホ毛類 cgfx_saki
+アホ毛類 cgfx_sao
+アホ毛類 cgfx_inmou
