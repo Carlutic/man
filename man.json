@@ -190,9 +190,9 @@
   "gender": "Male",
   "region": "",
   "rarity": 5,
-  "directory": "pak10/ryu",
+  "directory": "pak10/ryu/Ryu",
   "image": "Covers/man14.png",
-  "pmx": "Ryu.pmd",
+  "pmx": "Ryu.pmx",
   "base": "https://carlutic.github.io/man/"
  },
  {
@@ -204,9 +204,9 @@
   "gender": "Male",
   "region": "",
   "rarity": 5,
-  "directory": "pak10/ryu",
+  "directory": "pak10/ryu/RyuS1",
   "image": "Covers/man15.png",
-  "pmx": "RyuS1.pmd",
+  "pmx": "RyuS1.pmx",
   "base": "https://carlutic.github.io/man/"
  },
  {
@@ -218,9 +218,9 @@
   "gender": "Male",
   "region": "",
   "rarity": 5,
-  "directory": "pak10/ryu",
+  "directory": "pak10/ryu/RyuS2",
   "image": "Covers/man16.png",
-  "pmx": "RyuS2.pmd",
+  "pmx": "RyuS2.pmx",
   "base": "https://carlutic.github.io/man/"
  },
  {
@@ -232,9 +232,9 @@
   "gender": "Male",
   "region": "",
   "rarity": 5,
-  "directory": "pak10/ryu",
+  "directory": "pak10/ryu/RyuS3",
   "image": "Covers/man17.png",
-  "pmx": "RyuS3.pmd",
+  "pmx": "RyuS3.pmx",
   "base": "https://carlutic.github.io/man/"
  },
  {
